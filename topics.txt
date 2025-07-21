@@ -1,0 +1,79 @@
+Machine Learning
+
+Python For Machine Learning
+
+SQL For Machine Learning
+
+machine learning
+
+machine learning vs artificial intelligence
+
+data in machine learning
+
+data processing
+
+data cleansing
+
+machine learning models
+
+creating a simple machine learning model
+
+machine learning model evaluation
+
+steps to build a machine learning model
+
+machine learning deployment
+
+deploying machine learning web app using streamlit
+
+deploy a machine learning model using streamlit library
+
+deploy machine learning model using flask
+
+prepare data before deploying a machine learning model
+
+deploying ml models as api using fastapi
+
+deep learning
+
+transfer learning
+
+collaborative learning
+
+federated learning
+
+100 days of machine learning
+
+major challenges faced in machine learning
+
+interview questions for machine learning
+
+artificial intelligence
+
+artificial neural networks
+
+biological neural networks
+
+single layer perceptron in tensorflow
+
+multi layer perceptron learning in tensorflow
+
+deep neural network
+
+forward propagation
+
+back propagation
+
+deep neural network with forward and back propagation
+
+multi layer feed forward networks
+
+deep learning layers
+
+activation functions
+
+types of activation function in ann
+
+activation functions in pytorch
+
+understanding activation functions in depth
